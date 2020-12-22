@@ -1,0 +1,30 @@
+{
+    "name": "hr-dark",
+    "displayName": "HR Dark",
+    "description": "Hacker Rank Dark Theme for VSCode",
+    "icon": "hr-dark.png",
+    "version": "0.1.0",
+    "publisher" : "SoubikBhui16",
+    "author": {
+        "name" : "SB16072007"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sb16072007/hr-dark-vscode"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HR Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HR Dark-color-theme.json"
+            }
+        ]
+    }
+}
