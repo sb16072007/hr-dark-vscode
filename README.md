@@ -41,3 +41,7 @@ File -> Preferences -> Color Theme
 ##### 22-12-2020 ( v0.1.0 )
 
 * Initial Release
+
+#### License
+
+###### Check out the [License](./LICENSE) file
