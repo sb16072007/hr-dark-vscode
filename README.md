@@ -11,7 +11,7 @@
 ### Usage
 
 ```
-File -> Preferences -> Color Theme -> HR Dar
+File -> Preferences -> Color Theme -> HR Dark
 ```
 
 ![closed](./img/closedSidebar.png)
