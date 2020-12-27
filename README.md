@@ -40,7 +40,7 @@ File -> Preferences -> Color Theme -> HR Dark
 
 #### CHANGELOG
 
-###### For Updates and Previous Releases check out the [CHANGELOG.md](./CHANGEGLOG.md) file
+###### For Updates and Previous Releases check out the [CHANGELOG.md](./CHANGELOG.md) file
 
 #### License
 
