@@ -2,7 +2,7 @@
 <img style="align-items: center" src="./hr-dark.png">
 </p>
 <div style="align-items:center">
-<h1 style="font-size: 70px">HR Dark</h1></center>
+<h1 style="font-size: 70px; text-align:center">HR Dark</h1>
 
 <h2 style="font-size: 35px; text-align: center">HackerRank Dark Theme For Visual Studio Code</h2>
 </div>
