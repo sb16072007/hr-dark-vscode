@@ -1,4 +1,4 @@
-<img style="align-text: center" src="./hr-dark.png">
+<img style="align-items: center" src="./hr-dark.png">
 
 <h1 style="font-size: 70px">HR Dark</h1></center>
 
@@ -9,7 +9,7 @@
 ### Usage
 
 ```
-File -> Preferences -> Color Theme
+File -> Preferences -> Color Theme -> HR Dark
 ```
 
 ![closed](./img/closedSidebar.png)
