@@ -40,9 +40,7 @@ File -> Preferences -> Color Theme -> HR Dar
 
 #### CHANGELOG
 
-##### 22-12-2020 ( v0.1.0 )
-
-* Initial Release
+###### For Updates and Previous Releases check out the [CHANGELOG.md](./CHANGEGLOG.md) file
 
 #### License
 
