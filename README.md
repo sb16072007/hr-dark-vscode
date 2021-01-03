@@ -43,7 +43,7 @@ File -> Preferences -> Color Theme -> HR Dark
 
 ###### Open up your terminal and write the following command
 
-      git clone
+      git clone https://github.com/sb16072007/hr-dark-vscode.git
 
 #### CHANGELOG
 
