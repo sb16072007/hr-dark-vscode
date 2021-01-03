@@ -39,6 +39,12 @@ File -> Preferences -> Color Theme -> HR Dark
 
 ![json](./img/json.png)
 
+#### To Clone This Repository
+
+###### Open up your terminal and write the following command
+
+      git clone
+
 #### CHANGELOG
 
 ###### For Updates and Previous Releases check out the [CHANGELOG.md](./CHANGELOG.md) file
