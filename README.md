@@ -7,7 +7,7 @@
 <h2 style="font-size: 35px; text-align: center">HackerRank Dark Theme For Visual Studio Code</h2>
 </div>
 
-##### HR Dark is a VSCode Theme Extension which use red, blue and green as its main syntax colors
+##### HR Dark is a VSCode Theme which use red, blue and green as its main syntax colors
 
 ### Usage
 
