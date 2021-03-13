@@ -1,18 +1,15 @@
-<p align="center">
-<img style="align-items: center" src="./hr-dark.png">
-</p>
-<div style="align-items:center">
-<h1 style="font-size: 70px; text-align:center">HR Dark</h1>
+<center><img src="./hr-dark.png"</center>
 
-<h2 style="font-size: 35px; text-align: center">HackerRank Dark Theme For Visual Studio Code</h2>
-</div>
+<center><h1 style="font-size: 70px">HR Dark (v0.2.0)</h1></center>
 
-##### HR Dark is a VSCode Theme which use red, blue and green as its main syntax colors
+<center><h2 style="font-size: 35px">HackerRank Dark Theme For Visual Studio Code</h2></center>
+
+##### HR Dark is a VSCode Theme Extension which use red, blue and green as its main syntax colors
 
 ### Usage
 
 ```
-File -> Preferences -> Color Theme -> HR Dark
+File -> Preferences -> Color Theme
 ```
 
 ![closed](./img/closedSidebar.png)
@@ -39,16 +36,9 @@ File -> Preferences -> Color Theme -> HR Dark
 
 ![json](./img/json.png)
 
-#### To Clone This Repository
-
-###### Open up your terminal and write the following command
-
-      git clone https://github.com/sb16072007/hr-dark-vscode.git
-
 #### CHANGELOG
 
-###### For Updates and Previous Releases check out the [CHANGELOG.md](./CHANGELOG.md) file
-
-#### License
-
-###### Check out the [License](./LICENSE) file
+|Version|Date|Description|
+| :---: |:---:| :----: |
+|0.1.0| 22-12-2020 | Initial Release|
+|0.2.0| 13-03-2021 | Changed Contrast |

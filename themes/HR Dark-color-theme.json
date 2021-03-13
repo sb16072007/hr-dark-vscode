@@ -2,18 +2,18 @@
 	"name": "HR Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#192130",
+		"editor.background": "#1c2434",
 		"editor.foreground": "#eeffff",
 		"titleBar.activeBackground": "#0c1014",
 		"activityBarBadge.background": "#e06c20", 
-		"activityBar.background": "#111a24",
+		"activityBar.background": "#111d2b",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#151d26",
-		"button.background": "#0e6396",
+		"sideBar.background": "#17212c",
+		"button.background": "#0e5c8d",
 		"button.foreground": "#ffffff",
 		"input.background": "#151d26",
 		"dropdown.background": "#151d26",
-		"list.activeSelectionBackground": "#0099ff",
+		"list.activeSelectionBackground": "#05568b",
 		"statusBar.background": "#0099ff",
 		"terminal.background": "#151d26",
 		"tab.inactiveBackground":  "#151d26",
@@ -369,7 +369,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#f7716c"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#C792EA"
 			}
 		},
 		{
